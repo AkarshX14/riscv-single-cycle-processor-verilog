@@ -4,7 +4,7 @@
 ## Overview
 This project presents the design and simulation of a **32-bit single-cycle RISC-V processor** using Verilog HDL. The processor executes instructions in a single clock cycle and implements a complete datapath and control unit.
 
-It demonstrates fundamental concepts of **processor architecture, RTL design, and hardware verification**, making it suitable for academic and learning purposes in VLSI and embedded systems.
+
 
 ---
 
